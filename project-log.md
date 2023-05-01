@@ -24,7 +24,9 @@
 - notes go here
 
 ## search log
-- search log goes here
+- Sources found via UO Library and Google Scholar
+- Documneted on Zotero 
+- Key terms: Coachella, Digital Culture, Influencer, Public Relations, Media
 
 ## bibliography
 *The bibliography should include at least seven (7) sources:*
@@ -41,7 +43,11 @@
 9. source #7: Rashidi, W. (2020). In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire’s Contemporary Music Scenes. Taylor and Francis. https://www.tandfonline.com/doi/figure/10.1080/03007766.2020.1730648?scroll=top&needAccess=true&role=tab&aria-labelledby=figs-data. This final piece will help support my claim as well as lead to a more solid answer to my research question. It mainly focuses on press coverage on contemporary music scenes prior to Coachella. I think this information will mainly support my explanation of how much the media has influenced Coachella over the last 20 years. It takes geographic location into consideration when making it's argument which I also think is interesting and an important factor. 
 
 ## reading plan
-- reading plan goes here
+- Monday 5/1: Read sources 1 and 7
+- Tuesday 5/2: Read source 3
+- Wednesday 5/3: Read sources 5 and 6
+- Thursday: Read sources 2 and 4
+- Friday: Revisit pages that are unclear, or read anything I end up not having time for
 
 ---
 # week 5

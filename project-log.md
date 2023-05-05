@@ -58,9 +58,10 @@
 - *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Arnold, G. (2018). Half a Million Strong: Crowds and Power from Woodstock to Coachella. University of Iwoa Press. 
+- summary: Gina Arnold's book, *Half a Million Strong: Crowds and Power from Woodstock to Coachella* discusses the factors leading into music festival attendance and culture. Arnold describes the psycological value and emotional euphoria tied to witnessing a live performer whilst surronded by others— creatng a unique sensation for the collective. However, technology has taken the simplicity out of live music by bringing it more attention through a digital space. The increased acessibility of vitrual communication and the mutal influence between digital culture and music festival culture has changed the live music festival experience. 
+- potential use for project: This piece provides insight about the "prefestival" era and the current festival culture. It seperates music genre and performer expectations from Woodstock to the modern day popular festivals. This will be beneficial to the growth of my project due to the large amount of information regarding music festival culture and how desire has influenced the modern day festival experience; the history behind large festivals and the growth of the media has created a different societal mindset surronding music festival culture and expectations.
+- Quotes: "The festival is now a multimillion-dollar undertaking at which celebrities, fashion icons, and rock stars gather to disseminate in ways that are informed more by late capitalism than by musical or counterculture ideology" (Arnold 6).
 
 ### source 2 annotation
 - citation: 

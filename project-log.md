@@ -64,14 +64,22 @@
 - Quotes: "The festival is now a multimillion-dollar undertaking at which celebrities, fashion icons, and rock stars gather to disseminate in ways that are informed more by late capitalism than by musical or counterculture ideology" (Arnold 6).
 
 ### source 2 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Bennet, A. (2022). The Bloomsbury Handbook of Popular Music and Youth Culture. Bloomsbury Publishing USA.
+- summary: Bennet's book primarliy focuses on the relationship between popular music and youth culture. Music culture has always been enticing to youth, and its representation in the world has chnged over time. With technology at our finguretips, it is easy for adolecents to express their love for popular music by covering their songs on Youtube and interacting with them on social media. Bennet takes a methodolical approach to explaing the connection, and includes case studies and qualitative research. 
+- potential use for project: I would like to incorporate some of the qualitative research into my project. I would also like to include the historical and modern day aspects of how popular music and youth culture intertwine to develop my point on how digital culture influences Coachella. 
 
 ### source 3 annotation
-- citation: 
-- summary: 
-- potential use for project: 
+- citation: Cranny, C. (2020). Dancing in the Desert: A Case Study on the Digital Marketing Techniques of Coachella Valley Music and Arts Festival. 
+[Woodstock And Beyond: How the Modern Music Festival Came To Be](https://books.google.com/books?hl=en&lr=&id=bWV0DwAAQBAJ&oi=fnd&pg=PR5&dq=Woodstock+And+Beyond:+How+the+Modern+Music+Festival+Came+To+Be&ots=xADKmB7FNJ&sig=ybSGbmLLFQidrQnhIvtbJ898DDc#v=onepage&q&f=false)
+ 
+- summary: Cranny's case study focuses on the digital marketing strategies of the Coachella Music Festival thhrough a business and public relations perspective. The provided information is beneficial for both people looking to develop their marketing strategies as well as those looking to understand how the media shapes a popular music festival. Cranny uses scholarly research to present Coachella's digital marketing methods and share its overall effectiveness. The article includes the role marketers, influencers, and consumers play in the development and execution of the event through digital platforms; It better defines the invisible connection between a consumer and the marketers beind the screen.  
+- potential use for project: This article includes a lot of factual evidence that would support my claim. I think that the findings in the case study help define the "black box" between a consumer and the marketer in a digital space. 
+- Quotes: "Having a social media presence and following creates emotional
+connections between the company and the customers. If brands want to connect with their
+customers they need to have Lovemarks which are ‘super-evolved brands’ that increases
+connection between consumers and brands (Roberts, 2005). For festivals, the event
+managers have to be aware of who their target audiences are and what apps they use the
+most. "
 
 ---
 # week 6

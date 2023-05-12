@@ -117,17 +117,17 @@ most. "
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- I will use peer reviewed scholarly research provided by google scholar and the UO library. I will also use physical books on the subject, rented from the library or that I have purchased based on information found on google scholar. Additionally, I will gather information from Instagram and TikTok to discover data sets in order to compute in tools like Voyant and Palladio. These tools will guide me in gathering appropriate information that supports my research question as well as discover data and re-occuring patterns. 
+- I will use peer reviewed scholarly research provided by google scholar and the UO library. I will also use physical books on the subject, rented from the library or that I have purchased based on information found on google scholar. Additionally, I will gather information from Instagram and TikTok to discover data sets in order to compute in tools like Voyant and Palladio. These tools will guide me in gathering appropriate information that supports my research question as well as discover data and re-occuring patterns. These technologies will exemplify my knowledge of the platforms and aspects of digital humanities as an academic subject.
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- This project will provide a scholarly approach to the effects of Coachella's brand, supported by digital marketing and media, has on an individuals personal experience. Therefore, it will mainly target public relation professionals in the music industry and academics, but also consumers intrigued by the topic. 
+- This project will provide a scholarly approach to the effects of Coachella's brand, supported by digital marketing and media, has on an individuals personal experience. Therefore, it will mainly target public relation professionals in the music industry, academic scholars, and potential stakeholders. This project will also target consumers intrigued by the topic as a sub audience. I can reach that audience as a whole by citing my sources and incorporating key terms and tags in the text. 
 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- I will need plugins within my exisiting WordPress domain, expertise, time, and specific digital tools including: Voyant, Palladio.
+- I will need plugins within my exisiting WordPress domain, expertise, time, and specific digital tools including: Voyant, Palladio. In my final project, I will use data visuals created in canva and recorded speech using a personal recording device. I have an adobe creative account, which I will use to edit any recordings using audition and any other applications within Adobe if necessary. 
 
 ---
 # week 7

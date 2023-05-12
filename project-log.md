@@ -54,9 +54,6 @@
 ## research question
 
 ## annotated bibliography
-*Each annotation should include:*
-- *a full citation in Chicago, MLA, APA, or AP style (or another style appropriate to your discipline, with approval)*
-- *a 4-5 sentence annotation summarizing the main ideas and content of the piece and discussing how you plan to use it for your project.*
 
 ### source 1 annotation
 - citation: Arnold, G. (2018). Half a Million Strong: Crowds and Power from Woodstock to Coachella. University of Iwoa Press.Half a Million Strong: Crowds and Power from Woodstock to Coachella. University of Iwoa Press. [Half a Million Strong: Crowds and Power from Woodstock to Coachella]( https://books.google.com/books?hl=en&lr=&id=bWV0DwAAQBAJ&oi=fnd&pg=PR5&dq=Woodstock+And+Beyond:+How+the+Modern+Music+Festival+Came+To+Be&ots=xADKmB7FNJ&sig=ybSGbmLLFQidrQnhIvtbJ898DDc#v=onepage&q&f=false.)
@@ -115,22 +112,22 @@ most. "
 ### contribution
 *Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
-- respond here 
+- I will create a digital humanities project curated through scholarly research on the influences of digital marketing has, specifically through social media platforms, on the experience provided by the Coachella music festival. My project will contribute answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It will highlight the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencers who attend the event. 
 
 ### methods
 *What tools and methods will you use, and why are those the best technologies for your purposes?*
 
-- respond here 
+- I will use peer reviewed scholarly research provided by google scholar and the UO library. I will also use physical books on the subject, rented from the library or that I have purchased based on information found on google scholar. Additionally, I will gather information from Instagram and TikTok to discover data sets in order to compute in tools like Voyant and Palladio. These tools will guide me in gathering appropriate information that supports my research question as well as discover data and re-occuring patterns. 
 
 ### stakeholders / audiences
 *For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
-- respond here 
+- This project will provide a scholarly approach to the effects of Coachella's brand, supported by digital marketing and media, has on an individuals personal experience. Therefore, it will mainly target public relation professionals in the music industry and academics, but also consumers intrigued by the topic. 
 
 ### dependencies and resources
 *What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
 
-- respond here 
+- I will need plugins within my exisiting WordPress domain, expertise, time, and specific digital tools including: Voyant, Palladio.
 
 ---
 # week 7

@@ -53,6 +53,9 @@
 
 ## research question
 
+How has influencer culture heightened attendance at the Coachella Valley Music and Arts Festival and changed the emotional experience for each individual in the last 10 years?
+
+
 ## annotated bibliography
 
 ### source 1 annotation

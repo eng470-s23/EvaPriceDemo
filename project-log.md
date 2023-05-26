@@ -53,7 +53,7 @@
 
 ## research question
 
-How has influencer culture heightened attendance at the Coachella Valley Music and Arts Festival and changed the emotional experience for each individual in the last 10 years?
+How have digital marketing strategies changed the Coachella Music Festival experience in the last five years?
 
 
 ## annotated bibliography

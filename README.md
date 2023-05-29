@@ -42,14 +42,24 @@ This repository is a demo for ENG 470/570 students to clone in order to create i
 I would like to acknowledge my classmates and Professor Burket for teaching their knowledge and being supportive of our individual projects throughout the course. I would also like to express my appreciation for the resources and staff at the Knight Library at the University of Oregon. I am particularly grateful for the work put into research guides on the library website that allowed me to embed the proper formats for accessibility and data management. I recognize that while my privilege to have access to computers and digital devices has been what allowed me to conduct my project, I also hold responsibility for the negative impact they have on the planet. The production process and electricity required to use these devices emit harmful pollutants into the environment, and by using these products I acknowledge that I am partially responsible. Finally, I would like to thank the scholars for their work that I was able to learn from, as well as the creators of Palladio, Excel and GitHub for making a space I utilized to visually express my research.
 
 ## Works Cited
-Arnold, G. (2018). Half a Million Strong: Crowds and Power from Woodstock to Coachella. University of Iwoa Press. [URL](https://books.google.com/books?hl=en&lr=&id=bWV0DwAAQBAJ&oi=fnd&pg=PR5&dq=Woodstock+And+Beyond:+How+the+Modern+Music+Festival+Came+To+Be&ots=xADKmB7FNJ&sig=ybSGbmLLFQidrQnhIvtbJ898DDc#v=onepage&q&f=false)
-Bennet, A. (2022). The Bloomsbury Handbook of Popular Music and Youth Culture. Bloomsbury Publishing USA. [URL](https://books.google.com/books?hl=en&lr=&id=6ZuiEAAAQBAJ&oi=fnd&pg=PT15&dq=The+Bloomsbury+Handbook+of+Popular+Music+and+Youth+Culture&ots=MsRBdhHIfY&sig=ycWy4a6nmkdqW6J0Bs_NsY9hjfg#v=onepage&q=The%20Bloomsbury%20Handbook%20of%20Popular%20Music%20and%20Youth%20Culture&f=false)
+Arnold, G. (2018). *Half a Million Strong: Crowds and Power from Woodstock to Coachella.* University of Iwoa Press. [URL](https://books.google.com/books?hl=en&lr=&id=bWV0DwAAQBAJ&oi=fnd&pg=PR5&dq=Woodstock+And+Beyond:+How+the+Modern+Music+Festival+Came+To+Be&ots=xADKmB7FNJ&sig=ybSGbmLLFQidrQnhIvtbJ898DDc#v=onepage&q&f=false)
+
+Bennet, A. (2022). *The Bloomsbury Handbook of Popular Music and Youth Culture.* Bloomsbury Publishing USA. [URL](https://books.google.com/books?hl=en&lr=&id=6ZuiEAAAQBAJ&oi=fnd&pg=PT15&dq=The+Bloomsbury+Handbook+of+Popular+Music+and+Youth+Culture&ots=MsRBdhHIfY&sig=ycWy4a6nmkdqW6J0Bs_NsY9hjfg#v=onepage&q=The%20Bloomsbury%20Handbook%20of%20Popular%20Music%20and%20Youth%20Culture&f=false)
+
 Coachella. (n.d.). https://www.coachella.com/
-Cormany, D. (2015). Journal of Popular Music Studies. Wiley, Coachella Fans, Online and Translocal. [URL](https://www.researchgate.net/publication/277784247_Coachella_Fans_Online_and_Translocal)
-Cranny, C. (2020). Dancing in the Desert: A Case Study on the Digital Marketing Techniques of Coachella Valley Music and Arts Festival by. [URL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=expindsp)
-Fusco, K. (2015). Voices from beyond the grave: Virtual Tupac’s live performance at Coachella By. Duke University Press. [URL](https://read.dukeupress.edu/camera-obscura/article/30/2%20(89)/29/58545/Voices-from-Beyond-the-Grave-Virtual-Tupac-s-Live)
-Gillin, P. (2008). New Media, New Influencers and Implications for the Public Relations Profession. Journal of New Communications Research. [URL](https://www.issuelab.org/resources/928/928.pdf)
-Holt, F. (2020). Everyone Loves Live Music: A Theory of Performance Institutions. University of Chicago Press. [URL](https://press.uchicago.edu/ucp/books/book/chicago/E/bo61910974.html)
-Hudson, S. (n.d.). The effects of social media on emotions, brand relationship quality, and word of mouth: An empirical study of music festival attendees. ScienceDirect. [URL](https://www.sciencedirect.com/science/article/abs/pii/S026151771400171X?via%3Dihub)
-Rashidi, W. (2020). In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire’s Contemporary Music Scenes. Taylor and Francis. [URL](https://www.tandfonline.com/doi/figure/10.1080/03007766.2020.1730648?scroll=top&needAccess=true&role=tab&aria-labelledby=figs-data)
-Trisna Jaya, P. G. I., & Teddy Prianthara, I. B. (2018). Role of Social Media Influencers in Tourism Destination Image: How Does Digital Marketing Affect Purchase Intention? Atlantis Press. [URL](https://www.atlantis-press.com/proceedings/icvhe-18/125938316#:~:text=The%20results%20show%20that%20social,with%20regard%20to%20purchase%20intention.)
+
+Cormany, D. (2015). *Journal of Popular Music Studies. Wiley, Coachella Fans, Online and Translocal.* [URL](https://www.researchgate.net/publication/277784247_Coachella_Fans_Online_and_Translocal)
+
+Cranny, C. (2020). *Dancing in the Desert: A Case Study on the Digital Marketing Techniques of Coachella Valley Music and Arts Festival* by. [URL](https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1010&context=expindsp)
+
+Fusco, K. (2015). *Voices from beyond the grave: Virtual Tupac’s live performance at Coachella* By. Duke University Press. [URL](https://read.dukeupress.edu/camera-obscura/article/30/2%20(89)/29/58545/Voices-from-Beyond-the-Grave-Virtual-Tupac-s-Live)
+
+Gillin, P. (2008). *New Media, New Influencers and Implications for the Public Relations Profession.* Journal of New Communications Research. [URL](https://www.issuelab.org/resources/928/928.pdf)
+
+Holt, F. (2020). *Everyone Loves Live Music: A Theory of Performance Institutions.* University of Chicago Press. [URL](https://press.uchicago.edu/ucp/books/book/chicago/E/bo61910974.html)
+
+Hudson, S. (n.d.). *The effects of social media on emotions, brand relationship quality, and word of mouth: An empirical study of music festival attendees.* ScienceDirect. [URL](https://www.sciencedirect.com/science/article/abs/pii/S026151771400171X?via%3Dihub)
+
+Rashidi, W. (2020). *In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire’s Contemporary Music Scenes.* Taylor and Francis. [URL](https://www.tandfonline.com/doi/figure/10.1080/03007766.2020.1730648?scroll=top&needAccess=true&role=tab&aria-labelledby=figs-data)
+
+Trisna Jaya, P. G. I., & Teddy Prianthara, I. B. (2018). *Role of Social Media Influencers in Tourism Destination Image: How Does Digital Marketing Affect Purchase Intention?* Atlantis Press. [URL](https://www.atlantis-press.com/proceedings/icvhe-18/125938316#:~:text=The%20results%20show%20that%20social,with%20regard%20to%20purchase%20intention.)

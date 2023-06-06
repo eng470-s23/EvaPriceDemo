@@ -3,6 +3,12 @@
 How have digital marketing strategies changed the Coachella Music Festival experience in the last five years?
 
 
+[project log](/project-log.md)
+
+[presentation](presentation.md)
+
+[data management plan](datamanagement.md)
+
 If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.md), or maybe you want to get fancy and embed your project here. 
 
 ![A laptop showing an under-construction page created with a WordPress plugin](https://images.unsplash.com/photo-1590479773265-7464e5d48118?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)

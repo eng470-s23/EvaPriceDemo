@@ -9,7 +9,10 @@ description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-zip_url: http://EvaPriceDemo/download.zip
+
+github:
+  zip_url: http://evapricedemo.com/download.zip
+  another_url: another value
 
 title:  "Eva Price Demo Site"             
 tagline:  The Power of Digital Influence: How Social Media Strategies Have Impacted Coachella         

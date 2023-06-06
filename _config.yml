@@ -3,13 +3,12 @@ plugins:
 - jekyll-remote-theme 
 
 # Setup
-title: Minimal theme
+title: "Eva Price Demo Site"     
 logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
-
 github:
   zip_url: http://evapricedemo.com/download.zip
   another_url: another value

@@ -1,6 +1,6 @@
-Hello!
+Welcome!
 
-For my capstone project in ENG 470 at the University of Oregon, I conducted a research project regarding how digital marketing strategies have changed the Coachella Music Festival in the last five years. My project is composed of scholarly research, social media data analysis, and an interactive timeline which displays the information I have discovered. My goal for this project is to preserve data for future reference as the music festival advances. To learn more about my research process, the work I created, and my data management, view the links below. 
+For my capstone project in ENG 470 at the University of Oregon, I conducted a research project regarding how digital marketing strategies have changed the Coachella Music Festival in the last five years. My project is composed of scholarly research, social media data analysis, and an interactive timeline which display the information I have gathered. My goal for this project is to preserve data for future reference as the music festival advances and digital marketing strategies develop. To learn more about my research process, the work I created, and my data management, view the links below. 
 
 
 [project log](/project-log.md)

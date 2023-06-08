@@ -3,11 +3,11 @@ Welcome!
 For my capstone project in ENG 470 at the University of Oregon, I conducted a research project regarding how digital marketing strategies have changed the Coachella Music Festival in the last five years. My project is composed of scholarly research, social media data analysis, and an interactive timeline which display the information I have gathered. My goal for this project is to preserve data for future reference as the music festival advances and digital marketing strategies develop. To learn more about my research process, the work I created, and my data management, view the links below. 
 
 
-[project log](\project-log.md)
+[project log](EvaPriceDemo/project-log.md)
 
 [presentation](/presentation.md)
 
-[data management plan](data-management.md)
+[data management plan](/data-management.md)
 
 [Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful)
 

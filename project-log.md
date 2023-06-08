@@ -5,16 +5,13 @@
 - My research question is: How have digital marketing strategies changed the Coachella Music Festival experience in the last five years?
 -  I plan to use the following texts from the UO library: Coachella Fans, Online and Translocal by Diane L., In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire's Contemporary Music Scenes, B.C. (Before Coachella) By Waleed Rashidi, and Voices from beyond the grave: Virtual Tupac's live performance at Coachella By Katherine Fusco.
 - I plan to *process* these materials by: Reading through each text and finding the most valuable information relating to my topic. I will keep track of the text, author, quotes and other information in an organized google document. 
-- I plan to *present* these materials by: Creating a video essay explainging my findings that also incorporates images that is accessible on github and my pre-exisiting WordPress domain that includes previous work I have on music studies. I will also incorporate a page dedicated to past line ups, sourced from Coachella's website and attendance rates that are formatted in an infographic. 
-- My final submission will take this form: Github and WordPress. 
+- I plan to *present* these materials by: Creating a video essay explainging my findings that also incorporates images that is accessible on github.
+- My final submission will take this form: Github. 
 - This project is intended to engage these audiences and communities: Digital Sociologists and Public Relations professionals in the music industry.
-- I bring the following existing knowledge and/or skills to the project: My pre-exisiting background on studying music history and sound design, public relations, WordPress, and sourcing credible information.
+- I bring the following existing knowledge and/or skills to the project: My pre-exisiting background on studying music history and sound design, public relations, and sourcing credible information.
 - In order to do this project, I need to learn: Certain WordPress plugins, Visme, and how to make a quality video essay. 
 
 ---
-# week 4 
-## notes
-- notes go here
 
 ## search log
 - Sources found via UO Library and Google Scholar

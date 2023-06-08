@@ -40,9 +40,6 @@
 - Friday: Revisit pages that are unclear, or read anything I end up not having time for
 
 ---
-# week 5
-## notes
-- notes go here
 
 ## research question
 
@@ -74,10 +71,6 @@ connection between consumers and brands (Roberts, 2005). For festivals, the even
 managers have to be aware of who their target audiences are and what apps they use the
 most. "
 
----
-# week 6
-## notes
-- notes go here
 
 ## annotated bibliography, continued
 

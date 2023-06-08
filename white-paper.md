@@ -14,7 +14,13 @@ Be sure to include access info for your project (or embedded content).
 
 ## Project Origins and Goals
 
-It's very likely that elements of your pitch and/or environmental scan will be revised and incorporated here. 
+- I have digital humanities project curated through scholarly research on the influences of digital marketing has,specifically through social media platforms, on the experience provided by the Coachella music festival. My project will contribute answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It highlights the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencers who attend the event. 
+
+I refered to peer reviewed scholarly research provided by google scholar and the UO library.  Additionally, I gathered information from TikTok to discover data sets in order to compute in tools like Excel, Voyant and Palladio. These tools will guide me in gathering appropriate information that support my research question as well as discover data and re-occuring patterns.
+
+This project provides a scholarly approach to the effects of Coachella's brand, supported by digital marketing and media, has on an individuals personal experience. Therefore, it will mainly target public relation professionals in the music industry, academic scholars, and potential stakeholders. This project will also target consumers intrigued by the topic as a sub audience. 
+
+I hope this information is useful to both those experiencing the festival and those behind the online marketing process. The data and knowldege found within my project are intended for current and future reference as the Coachella Music Festival continues to advance. I believe there is a lot to learn about the connection between digital marketing in the media and live performances at popular music festivals, so there is plenty of information yet to be contributed.
 
 ## Project Activities, Team, and Participants
 

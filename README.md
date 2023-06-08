@@ -60,6 +60,8 @@ Fusco, K. (2015). *Voices from beyond the grave: Virtual Tupac’s live performa
 
 Gillin, P. (2008). *New Media, New Influencers and Implications for the Public Relations Profession.* Journal of New Communications Research. [URL](https://www.issuelab.org/resources/928/928.pdf)
 
+Hall, D. (n.d.). 7 Jaw-Dropping Sets From Coachella 2023 Weekend 1: BLACKPINK, Bad Bunny, Blink-182 & More. Grammy Awards. [URL](https://www.grammy.com/news/coachella-2023-weekend-1-recap-rosalia-bad-bunny-metro-boomin-blink-182-performances-surprises-video)
+
 Holt, F. (2020). *Everyone Loves Live Music: A Theory of Performance Institutions.* University of Chicago Press. [URL](https://press.uchicago.edu/ucp/books/book/chicago/E/bo61910974.html)
 
 Hudson, S. (n.d.). *The effects of social media on emotions, brand relationship quality, and word of mouth: An empirical study of music festival attendees.* ScienceDirect. [URL](https://www.sciencedirect.com/science/article/abs/pii/S026151771400171X?via%3Dihub)

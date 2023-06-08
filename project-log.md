@@ -1,16 +1,9 @@
-# week 2
-## notes
-- notes go here
 
----
-# week 3
-## notes
-- notes go here
 
 ## pitch
 - My research topic is: The effects digital culture has on music festival culture— specifically Coachella.
-- My research question is: How does digital culture influence the popularity of Coachella?
-- I expect to work with the following *materials*: I plan to use the following texts from the UO library: Coachella Fans, Online and Translocal by Diane L., In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire's Contemporary Music Scenes, B.C. (Before Coachella) By Waleed Rashidi, and Voices from beyond the grave: Virtual Tupac's live performance at Coachella By Katherine Fusco.
+- My research question is: How have digital marketing strategies changed the Coachella Music Festival experience in the last five years?
+-  I plan to use the following texts from the UO library: Coachella Fans, Online and Translocal by Diane L., In the Shadow of Los Angeles: A Review of Local and Regional Press Coverage of the Inland Empire's Contemporary Music Scenes, B.C. (Before Coachella) By Waleed Rashidi, and Voices from beyond the grave: Virtual Tupac's live performance at Coachella By Katherine Fusco.
 - I plan to *process* these materials by: Reading through each text and finding the most valuable information relating to my topic. I will keep track of the text, author, quotes and other information in an organized google document. 
 - I plan to *present* these materials by: Creating a video essay explainging my findings that also incorporates images that is accessible on github and my pre-exisiting WordPress domain that includes previous work I have on music studies. I will also incorporate a page dedicated to past line ups, sourced from Coachella's website and attendance rates that are formatted in an infographic. 
 - My final submission will take this form: Github and WordPress. 
@@ -110,44 +103,23 @@ most. "
 - potential use for project: This final piece will help support my claim as well as lead to a more solid answer to my research question. It mainly focuses on press coverage on contemporary music scenes prior to Coachella. I think this information will mainly support my explanation of how much the media has influenced Coachella over the last 20 years. It takes geographic location into consideration when making it's argument which I also think is interesting and an important factor. 
 
 ## environmental scan
-*The environmental scan situates your project within the existing scholarly research and articulates its contribution. Answer each of the following questions in about one well-developed paragraph. You may use bulleted lists to organize your thoughts, but please write in complete sentences.*
+
 
 ### contribution
-*Describe what you will do and why. What is unique about your project and what you will be contributing to your scholarly community? What problem will be resolved, what question will be answered, or what opportunity will be created through your project?*
 
 - I will create a digital humanities project curated through scholarly research on the influences of digital marketing has, specifically through social media platforms, on the experience provided by the Coachella music festival. My project will contribute answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It will highlight the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencers who attend the event. 
 
 ### methods
-*What tools and methods will you use, and why are those the best technologies for your purposes?*
 
 - I will use peer reviewed scholarly research provided by google scholar and the UO library. I will also use physical books on the subject, rented from the library or that I have purchased based on information found on google scholar. Additionally, I will gather information from Instagram and TikTok to discover data sets in order to compute in tools like Voyant and Palladio. These tools will guide me in gathering appropriate information that supports my research question as well as discover data and re-occuring patterns. These technologies will exemplify my knowledge of the platforms and aspects of digital humanities as an academic subject.
 
 ### stakeholders / audiences
-*For whom is your project intended: academics, members of the public, your institution, etc.? Who is invested in the final products? How can you reach that audience and meet the needs of interested parties and stakeholders?*
 
 - This project will provide a scholarly approach to the effects of Coachella's brand, supported by digital marketing and media, has on an individuals personal experience. Therefore, it will mainly target public relation professionals in the music industry, academic scholars, and potential stakeholders. This project will also target consumers intrigued by the topic as a sub audience. I can reach that audience as a whole by citing my sources and incorporating key terms and tags in the text. 
 
 ### dependencies and resources
-*What resources do you need to reach your goals? Consider equipment, technologies, programs, web hosting, data storage, expertise, and time. Where will you get the resources you need? Identify specific entities, offices, subscriptions, spaces, etc. available through UO or the community.*
+
 
 - I will need plugins within my exisiting WordPress domain, expertise, time, and specific digital tools including: Voyant, Palladio. In my final project, I will use data visuals created in canva and recorded speech using a personal recording device. I have an adobe creative account, which I will use to edit any recordings using audition and any other applications within Adobe if necessary. 
 
----
-# week 7
-## notes
-- notes go here
 
----
-# week 8
-## notes
-- notes go here
-
----
-# week 9
-## notes
-- notes go here
-
----
-# week 10
-## notes
-- notes go here

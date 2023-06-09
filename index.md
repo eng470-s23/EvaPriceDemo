@@ -29,11 +29,9 @@ Fabian Holt states, in his book *Everyone Loves Live Music: A Theory of Performa
 I downloaded this chapter into Voyant, to visually show the connections between the use of the words, "video", "live", "experience", "culture", "crowd", and "social media". 
 
 
-[Fabian Holt's chapter, " Festival Video and Social Media" in_Voyant.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710671/Price_FabianHolt_Voyant.pdf)
+[Price_FabianHolt_Voyant2.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710688/Price_FabianHolt_Voyant2.pdf)
 
-[Voyant_FabianHolt (1).pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710680/Voyant_FabianHolt.1.pdf)
-
-
+![Price_FabianHolt_Voyant](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/eebb1bdb-2cf5-49ef-803b-81740cfa1b87)
 
 
 [Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful)

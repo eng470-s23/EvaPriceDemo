@@ -9,6 +9,20 @@ For my capstone project in ENG 470 at the University of Oregon, I conducted a re
 
 [data management plan](/data-management.md)
 
+## What is Coachella?
+Coachella is an annual 3-day music festival that takes place over two weekends in April in Indio, California. It began in 1999 and has been held every year since, excluding 2020 and 2021 due to the pandemic. Five years ago in 2019, attendance peaked at 99,000 people. This year, 2023, the attendance rate significantly increased to 125,000 people. The Grammy Awards states, "The 2023 edition of Coachella — which sold out its first weekend, ushering in roughly 125,000 people from around the globe — was arguably the most consequential in its 22 years". 
+
+## What Draws People to Live Music Festivals?
+When conducting my research to discover what is most desirable about live music festivals, I collected a variety of significant key terms. 
+
+[Research Key Terms](https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
+ !(Key Terms Expressed in Palladio Graph) (https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
+
+
+
+
+
+
 [Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful)
 
 If you're a student in the class, the front page of your GitHub pages site will deploy from index.md. Put whatever content here you want to show up on your front page. Maybe that's your [white paper](white-paper.md) or your [presentation](presentation.md), or maybe you want to get fancy and embed your project here. 

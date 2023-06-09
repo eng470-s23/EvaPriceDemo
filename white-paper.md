@@ -1,31 +1,25 @@
-# What's a White Paper?
 
-In digital humanities, it is common for project teams to publish a report of funded development activities after a grant cycle is completed. The following template is taken from the [instructions provided by the National Endowment for the Humanities](https://www.neh.gov/how-write-successful-white-paper-tips-odh) to recipients of Digital Humanities Advancement Grants.
+## Project Summary/Abstract 
 
----
-
-# White Paper Template
-
-Not a bad idea to include a table of contents here with relative links to your section headers.
-
-## Project Summary/Abstract (1 paragraph) 
-
-Be sure to include access info for your project (or embedded content).
+The purpose of my project is to draw connections between sucessful digital marketing strategies and the in-person experience of the Coachella Music Festival in Indio, California— particularly in the last five years. Through scholarly research and a Tik Tok social media analysis, I gathered information to display in an interactive timeline. I also include my social media analysis findings in bar graphs, along with other visuals that support my topic. My goal is to give insigt on what is desired from brand marketers and the typical consumer who attend this festival, and preserve my findings for future reference as the festival advances.
 
 ## Project Origins and Goals
-I have created a digital humanities project curated through scholarly research on the influences of digital marketing on the experience provided by the Coachella music festival. My project will contribute answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It highlights the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencer who attend the event. 
+I have created a digital humanities project curated through scholarly research on the influences of digital marketing on the experience provided by the Coachella music festival. My project contributes answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It highlights the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencer who attend the event. 
 
-I referred to peer-reviewed scholarly research provided by google scholar and the UO library. Additionally, I gathered information from TikTok to discover data sets to compute in tools like Excel, Voyant, and Palladio. These tools will guide me in gathering appropriate information to support my research question as well as discover data and re-occurring patterns.
+I referred to peer-reviewed scholarly research provided by google scholar and the UO library. I utilized Voyant and Palladio to display patterns I discovered in my readings. Additionally, I gathered data from TikTok to compute in Excel. These tools guided me in gathering appropriate information to support my research question.
 
 This project provides a scholarly approach to how Coachella's digital marketing strategies are effective on the average consumer and influence the experience as a whole. Therefore, it mainly targets public relations professionals in the music industry, academic scholars, and potential stakeholders. This project will also target consumers intrigued by the topic as a sub-audience. 
 
-I hope this information is useful to both those experiencing the festival and those behind the online marketing process. The data and knowledge found within my project are intended for current and future reference as the Coachella Music Festival continues to advance. I believe there is a lot to learn about the connection between digital marketing in the media and live performances at popular music festivals, so there is plenty of information yet to be contributed.
-
 ## Project Activities, Team, and Participants
 
+During the duration of the school term, I dedicated several hours a week to finding scholarly articles and books on my topic. I also dedicated time to learning new platforms such as GitHub, Palladio, Voyant and Genially. 
+
 ## Project Outcomes
+ I learned about what kinds of emotions and physical experiences draw people to concerts, and I learned how digital marketers use that to their advantage when advertising their brand. Coachella is a unique festival experience, but it is also a networking event— making it one of the most sucessful festivals in the United States. I have displayed this information in multiple formats to promote learning for others.
 
 ## Project Continuation and Long-Term Impact
+
+I hope this information is useful to both those experiencing the festival and those behind the online marketing process. The data and knowledge found within my project are intended for current and future reference as the Coachella Music Festival continues to advance. I believe there is a lot to learn about the connection between digital marketing in the media and live performances at popular music festivals, so there is plenty of information yet to be contributed.
 
 ---
 

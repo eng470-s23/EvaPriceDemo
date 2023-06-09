@@ -18,6 +18,7 @@ When conducting my research to discover what is most desirable about live music 
 [Research Key Terms](https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
  !(Key Terms Expressed in Palladio Graph) (https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
 
+[Palladio_Graph (1).PDF](https://github.com/eng470-s23/EvaPriceDemo/files/11710510/Palladio_Graph.1.PDF)
 
 
 

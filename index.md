@@ -31,6 +31,7 @@ I downloaded this chapter into Voyant, to visually show the connections between 
 
 [Fabian Holt's chapter, " Festival Video and Social Media" in_Voyant.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710671/Price_FabianHolt_Voyant.pdf)
 
+[Voyant_FabianHolt (1).pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710680/Voyant_FabianHolt.1.pdf)
 
 
 

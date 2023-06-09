@@ -20,6 +20,7 @@ When conducting my research to discover what is most desirable about live music 
 
 
 [Price_Palladio_Map_PDF.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710522/Price_Palladio_Map_PDF.pdf)
+![Palladio_Graph](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/bc6e430e-ff6c-4ae0-92e9-354c0d399fc9)
 
 
 

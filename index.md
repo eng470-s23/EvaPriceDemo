@@ -15,10 +15,10 @@ Coachella is an annual 3-day music festival that takes place over two weekends i
 ## What Draws People to Live Music Festivals?
 When conducting my research to discover what is most desirable about live music festivals, I collected a variety of significant key terms. 
 
-[Research Key Terms](https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
+![Research Key Terms](https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
  !(Key Terms Expressed in Palladio Graph) (https://github.com/eng470-s23/EvaPriceDemo/files/11710500/Palladio_Graph.PDF)
 
-[Palladio_Graph (1).PDF](https://github.com/eng470-s23/EvaPriceDemo/files/11710510/Palladio_Graph.1.PDF)
+
 
 
 

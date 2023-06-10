@@ -9,6 +9,10 @@ For my capstone project in ENG 470 at the University of Oregon, I conducted a re
 
 [data management plan](/data-management.md)
 
+[white paper](/white-paper.md)
+
+
+
 ## What is Coachella?
 Coachella is an annual 3-day music festival that takes place over two weekends in April in Indio, California. It began in 1999 and has been held every year since, excluding 2020 and 2021 due to the pandemic. Five years ago in 2019, attendance peaked at 99,000 people. This year, 2023, the attendance rate significantly increased to 125,000 people. The Grammy Awards states, "The 2023 edition of Coachella — which sold out its first weekend, ushering in roughly 125,000 people from around the globe — was arguably the most consequential in its 22 years". 
 

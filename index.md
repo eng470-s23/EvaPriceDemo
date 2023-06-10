@@ -63,7 +63,8 @@ Finally, I gathered the number of hashtag views several of the 2023 perfomers re
 *Dominic Fike Performing at Coachella 2023*
                                                
 ![Labrinth and Zendaya Performing at Coachella 2023 Sourced from Getty Images](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/40332ef6-eb02-46c1-8a44-99b01626e8a7)
- *Labrinth and Zendaya Performing at Coachella 2023*
+
+*Labrinth and Zendaya Performing at Coachella 2023*
 
 ![Zendaya Performing at Coachella 2023 Sourced from Getty Images](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/f1e4bcb5-a308-42fd-839a-fd2c28eb7c39)                                         
 *Zendaya Performing at Coachella 2023*

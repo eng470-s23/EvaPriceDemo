@@ -15,6 +15,7 @@ Coachella is an annual 3-day music festival that takes place over two weekends i
 ## What Draws People to Live Music Festivals?
 When conducting my research to discover what is most desirable about live music festivals, I collected a variety of significant key terms which are displayed below. 
 ![Palladio Rsearch_Key Terms](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/bc6e430e-ff6c-4ae0-92e9-354c0d399fc9)
+Palladio Key Terms
 
 
 People tend to desire several emotional and physical experiences from live music; It provides unique experiences and feelings of enjoyment. These include:
@@ -29,6 +30,7 @@ Fabian Holt states, in his book *Everyone Loves Live Music: A Theory of Performa
 I downloaded this chapter into Voyant, to visually show the connections between the use of the words, "video", "live", "experience", "culture", "crowd", and "social media". 
 ![Fabian Holt's chapter "Festival Video and Social Media" visually displayed in_Voyant by showing relationships between specific wrords](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/eebb1bdb-2cf5-49ef-803b-81740cfa1b87)
                           Fabian Holt "Festival Video and Social Media" in Voyant
+                          
  As you can see, there are distinct patterns between certain words throughout the chapter. For example, there is overlap between "social media" and "culture". There are also disinct connections between "videos" and "live" and "experience" and "live", insinuating that you can experience a "live" experience through a video and through the experience itself. 
  
  ## How Does Coachella use the Power of Live Music and Culture to their Benefit?

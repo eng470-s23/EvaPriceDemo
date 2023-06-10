@@ -41,7 +41,7 @@ On May 22, 2023 I conducted a social media analysis on frequently viewed and non
  
 First, Tik Tok became very prevelent during the pandemic. Coachella 2019 took place before the shelter in place rules took effect. During 2020 and 2021, Coachella did not take place for saftey reasons. However, it had a striking comeback in 2022 and carried its popularity into 2023. As seen below, #Coachella2022 and #Coachella2023 show the comeback it had in both real life and the media. 
 
-![Tik Tok Hashtags of Coachella for 2019, 2020, 2021, 2022, and 2023](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/5160dfc0-176a-4ba5-b0d1-bd91f6aeba65)
+![Tik Tok Hashtags of Coachella for 2019, 2020, 2021, 2022, and 2023](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/5de87d84-b515-4fab-a1a1-c7553ac5ac06)
 
 Second, I collected the number of views for popular and unpopular hashtags surronding Coachella. The music-related hashtags were not nearly as popular as #Influencerolympics (12 Million) or #Coachellaoutfits (83.4 Million). The #Influencerolympics refers to the high amount of influencers that are paid to attend the event in honor of sponsoring a brand, making the festival a competitive networking event for popular influencers. #Coachellaoutfits represents the social stigma around what is and is not appropriate to ear to this festival. It shows how much people value the way they are perceived by others at the festival. 
 

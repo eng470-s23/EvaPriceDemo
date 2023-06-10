@@ -1,6 +1,6 @@
 # README for demo-site
 
-- **[readme.md](readme.md) 
+- **[readme.md](readme.md)** 
 - **[license.md](license.md)**
 - **[project-log.md](project-log.md)**
 - **[data-management.md](data-management-plan.md)**
@@ -14,15 +14,13 @@
 
 1. Project Name: The Power of Digital Influence: How Social Media Strategies Have Impacted Coachella
 2. Dataset file name(s) and extension(s): 
-3. Project description/abstract/keywords:
-4. Authors and collaborators, including ORCID IDs and contact information
-5. Dates of Data Collection (YYYYMMDD format)
-6. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
+3. Project description/abstract/keywords: The purpose of my project is to draw connections between successful digital marketing strategies and the in-person experience of the Coachella Music Festival in Indio, California— particularly in the last five years. Through scholarly research and a Tik Tok social media analysis, I gathered information to display in an interactive timeline. I also include my social media analysis findings in bar graphs and visuals supporting my topic. My goal is to give insight into what is desired from brand marketers and the typical consumer who attends this festival and preserve my findings for future reference as the festival advances.
+5. Author: Eva Price
+6. Dates of Data Collection: 2019-2023
+7. Date of file creation and updates, and nature of those updates (YYYYMMDD format)
 
 ## Data Access & Sharing
-1. [Licenses](https://choosealicense.com/) for the data and restrictions placed on the data
-3. Was data derived from another sourse, if so where?
-4. Recommeded [citation](https://guides.lib.umich.edu/c.php?g=439304&p=2993299) for the data
+[Fair Use Evaluation Documentation - Everyone Loves Live Music_ A Theory of Performance Institutions.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11713110/Fair.Use.Evaluation.Documentation.-.Everyone.Loves.Live.Music_.A.Theory.of.Performance.Institutions.pdf)
 
 ## Methodological and Data-specific Information
 1. Description of methods for data collection and processing

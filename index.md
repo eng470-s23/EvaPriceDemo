@@ -50,7 +50,7 @@ Second, I collected the number of views for popular and unpopular hashtags surro
 Finally, I gathered the number of hashtag views several of the 2023 perfomers received. I particularly chose Labrinth, Zendaya, and Dominic Fike because they all acted or created music for the popular TV show Euphoria. I also included Bad Bunny, a Puerto Rican Rapper who headlined at Coachella this year to refer to as a famous artist who was not featured in the show. #Euphoria has 62 Billion views on Tik Tok and songs from its soundtrack have a history of being used in peoples personal videos. It gained a lot of popularity on Tik Tok when season 1 was released in June 2019 and season 2 in January 2022. The soundtrack became extremely popular as it gained traction in the media, especially amongst Coachella's target audience, therefore seeing these artists at Coachella 2023 was not much of a surprise. 
 ![Tik Tok Hashtags from 2023 Performances](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/5ce6e3f1-8408-46d0-a9d6-e92e9a8d9b05)
 
-## The Euphoria stars and performers at Coachella 2023:
+## The Euphoria stars and Performers at Coachella 2023:
 
 ![Dominic Fike Performing at Coachella 2023 Sourced from Getty Images](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/b52d950c-29b1-4501-ba5e-f86e9eb7e26b)
  Dominic Fike Performing at Coachella 2023 

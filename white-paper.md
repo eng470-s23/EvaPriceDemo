@@ -4,6 +4,7 @@
 The purpose of my project is to draw connections between successful digital marketing strategies and the in-person experience of the Coachella Music Festival in Indio, California— particularly in the last five years. Through scholarly research and a Tik Tok social media analysis, I gathered information to display in an interactive timeline. I also include my social media analysis findings in bar graphs and visuals supporting my topic. My goal is to give insight into what is desired from brand marketers and the typical consumer who attends this festival and preserve my findings for future reference as the festival advances.
 
 ## Project Origins and Goals
+
 I have created a digital humanities project curated through scholarly research on the influences of digital marketing on the experience provided by the Coachella music festival. My project contributes answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It highlights the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencer who attend the event. 
 
 I referred to peer-reviewed scholarly research provided by google scholar and the UO library. I utilized Voyant and Palladio to display patterns I discovered in my readings. Additionally, I gathered data from TikTok to compute in Excel. These tools guided me in gathering appropriate information to support my research question.
@@ -15,7 +16,8 @@ This project provides a scholarly approach to how Coachella's digital marketing 
 During the duration of the school term, I dedicated several hours a week to finding scholarly articles and books on my topic. I also dedicated time to learning new platforms such as GitHub, Palladio, Voyant, and Genially. 
 
 ## Project Outcomes
- I learned about what kinds of emotions and physical experiences draw people to concerts, and I learned how digital marketers use that to their advantage when advertising their brands. Coachella is a unique festival experience, but it is also a networking event— making it one of the most successful festivals in the United States. I have displayed this information in multiple formats to promote learning for others.
+
+ I learned about what kinds of emotions and physical experiences draw people to concerts, and I learned how digital marketers use that to their advantage when advertising their brands. Coachella is a unique festival experience, but it is also a networking event— making it one of the most successful festivals in the United States. I have displayed this information in multiple formats to promote learning for others. Also, I learned how to navigate new platforms and insert my newfound knowledge on my topic in creative ways. 
 
 ## Project Continuation and Long-Term Impact
 

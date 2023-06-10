@@ -61,6 +61,15 @@ Finally, I gathered the number of hashtag views several of the 2023 perfomers re
 
 ![Zendaya Performing at Coachella 2023 Sourced from Getty Images](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/f1e4bcb5-a308-42fd-839a-fd2c28eb7c39)                                         
  Zendaya Performing at Coachella 2023
+ 
+ ## Conclusions
+-Digital marketing strategies are formulated to appeal to as many people as possible within the target audience.
+-A Digital marketing strategy in this field entails using technology to capture real life experiences and promote them in the media.
+-What brands post on social media is made to spark a desire  to witness a live experience by using videos and recordings that  depict a state of mind, a unique live experience, and personal relationships.
+-Brand and consumer relationships are important in achieving success. 
+-Coachella is a unique festival with a lot of fun, in-person experiences to offer, but it is also a networking event.
+-What goes viral on social media is used to leverage what direction to take when putting on an event in the entertainment industry. 
+
 
 
 

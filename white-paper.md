@@ -1,7 +1,7 @@
 
 ## Project Summary/Abstract 
 
-The purpose of my project is to draw connections between sucessful digital marketing strategies and the in-person experience of the Coachella Music Festival in Indio, California— particularly in the last five years. Through scholarly research and a Tik Tok social media analysis, I gathered information to display in an interactive timeline. I also include my social media analysis findings in bar graphs, along with other visuals that support my topic. My goal is to give insigt on what is desired from brand marketers and the typical consumer who attend this festival, and preserve my findings for future reference as the festival advances.
+The purpose of my project is to draw connections between successful digital marketing strategies and the in-person experience of the Coachella Music Festival in Indio, California— particularly in the last five years. Through scholarly research and a Tik Tok social media analysis, I gathered information to display in an interactive timeline. I also include my social media analysis findings in bar graphs and visuals supporting my topic. My goal is to give insight into what is desired from brand marketers and the typical consumer who attends this festival and preserve my findings for future reference as the festival advances.
 
 ## Project Origins and Goals
 I have created a digital humanities project curated through scholarly research on the influences of digital marketing on the experience provided by the Coachella music festival. My project contributes answers to how Coachella's digital marketing provides a specific emotional experience at the festival; It highlights the successful marketing tactics and strategies that illuminate the experience for individuals, including the typical consumer and influencer who attend the event. 
@@ -12,14 +12,15 @@ This project provides a scholarly approach to how Coachella's digital marketing 
 
 ## Project Activities, Team, and Participants
 
-During the duration of the school term, I dedicated several hours a week to finding scholarly articles and books on my topic. I also dedicated time to learning new platforms such as GitHub, Palladio, Voyant and Genially. 
+During the duration of the school term, I dedicated several hours a week to finding scholarly articles and books on my topic. I also dedicated time to learning new platforms such as GitHub, Palladio, Voyant, and Genially. 
 
 ## Project Outcomes
- I learned about what kinds of emotions and physical experiences draw people to concerts, and I learned how digital marketers use that to their advantage when advertising their brand. Coachella is a unique festival experience, but it is also a networking event— making it one of the most sucessful festivals in the United States. I have displayed this information in multiple formats to promote learning for others.
+ I learned about what kinds of emotions and physical experiences draw people to concerts, and I learned how digital marketers use that to their advantage when advertising their brands. Coachella is a unique festival experience, but it is also a networking event— making it one of the most successful festivals in the United States. I have displayed this information in multiple formats to promote learning for others.
 
 ## Project Continuation and Long-Term Impact
 
-I hope this information is useful to both those experiencing the festival and those behind the online marketing process. The data and knowledge found within my project are intended for current and future reference as the Coachella Music Festival continues to advance. I believe there is a lot to learn about the connection between digital marketing in the media and live performances at popular music festivals, so there is plenty of information yet to be contributed.
+I hope this information is useful those experiencing the festival and those behind the online marketing process. The data and knowledge found within my project are intended for current and future reference as the Coachella Music Festival continues to advance. I believe there is a knowledge gap in the connection between digital marketing in the media and live performances at popular music festivals. Preserving this data, and contibuting to it over time, is beneficial in helping others learn. 
+
 
 ---
 

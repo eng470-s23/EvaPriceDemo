@@ -29,9 +29,9 @@ Gina Arnold states in her book,  [*Half a Million Strong: Crowds and Power from 
 Fabian Holt states, in his book [*Everyone Loves Live Music: A Theory of Performance Institutions*](https://press.uchicago.edu/ucp/books/book/chicago/E/bo61910974.html), “In the interpersonal experience on the dance floor, the repetition of the beat not only sustains movement, but it also creates a field of action for dancers, coordinating movements and engendering collective feeling” (Holt 48) Holts book expands on how music festivals, pop culture, public culture influence eachother and how it has changed over time. He talks about the power live music holds and how corporations have consumed it and used it for their own benefit. Holts chapter, "Festival Video and Social Media" elaborates on the capabilities of recorded and live video footage of a music festival. Corporations can use this kind of technology to capture this euphoria and people making unique, memorable memories. It is used to share with the world and target people who are not there in hopes ofearning their approval to purchase a ticket for next year. 
 I downloaded this chapter into Voyant, to visually show the connections between the use of the words, "video", "live", "experience", "culture", "crowd", and "social media". 
 ![Fabian Holt's chapter "Festival Video and Social Media" visually displayed in_Voyant by showing relationships between specific wrords](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/eebb1bdb-2cf5-49ef-803b-81740cfa1b87)
-                          Fabian Holt "Festival Video and Social Media" in Voyant
+*Fabian Holt "Festival Video and Social Media" in Voyant*
                           
- As you can see, there are distinct patterns between certain words throughout the chapter. For example, there is overlap between "social media" and "culture". There are also disinct connections between "videos" and "live" and "experience" and "live", insinuating that you can experience a "live" experience through a video and through the experience itself. 
+As you can see, there are distinct patterns between certain words throughout the chapter. For example, there is overlap between "social media" and "culture". There are also disinct connections between "videos" and "live" and "experience" and "live", insinuating that you can experience a "live" experience through a video and through the experience itself. 
  
  ## How Does Coachella use the Power of Live Music and Culture to their Benefit?
  
@@ -69,6 +69,7 @@ Finally, I gathered the number of hashtag views several of the 2023 perfomers re
 *Zendaya Performing at Coachella 2023*
  
  ## Conclusions
+ 
 -Digital marketing strategies are formulated to appeal to as many people as possible within the target audience.
 -A digital marketing strategy in this field entails using technology to capture real life experiences and promote them in the media.
 -What brands post on social media is made to spark a desire  to witness a live experience by using videos and recordings that  depict a state of mind, a unique live experience, and personal relationships.

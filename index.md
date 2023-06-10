@@ -23,17 +23,21 @@ People tend to desire several emotional and physical experiences from live music
 - Witnessing the power of crowds and experiencing a shared human connection.
 - Having a euphoric state of mind.
 
-Gina Arnold states in her book, *Half a Million Strong: Crowds and Power from Woodstock to Coachella* that, “On the surface, raves seem to be advertisements not for people, not for music, but for a state of mind” (Arnold 125). 
+Gina Arnold states in her book, *Half a Million Strong: Crowds and Power from Woodstock to Coachella* that, “On the surface, raves seem to be advertisements not for people, not for music, but for a state of mind” (Arnold 125). Arnold explains the hisory of American music festivals and the way they have impacted culture. She incorporates the emotional experience of hearing live music and being emmersed in a crowd—feeling as though you are all one as you enjoy the sound as a collective. 
 
 Fabian Holt states, in his book *Everyone Loves Live Music: A Theory of Performance Institutions*, “In the interpersonal experience on the dance floor, the repetition of the beat not only sustains movement, but it also creates a field of action for dancers, coordinating movements and engendering collective feeling” (Holt 48) Holts book expands on how music festivals, pop culture, public culture influence eachother and how it has changed over time. He talks about the power live music holds and how corporations have consumed it and used it for their own benefit. Holts chapter, "Festival Video and Social Media" elaborates on the capabilities of recorded and live video footage of a music festival. Corporations can use this kind of technology to capture this euphoria and people making unique, memorable memories. It is used to share with the world and target people who are not there in hopes ofearning their approval to purchase a ticket for next year. 
 I downloaded this chapter into Voyant, to visually show the connections between the use of the words, "video", "live", "experience", "culture", "crowd", and "social media". 
+![Fabian Holt's chapter "Festival Video and Social Media" visually displayed in_Voyant by showing relationships between specific wrords](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/eebb1bdb-2cf5-49ef-803b-81740cfa1b87)
+                          Fabian Holt "Festival Video and Social Media" in Voyant
+ As you can see, there are distinct patterns between certain words throughout the chapter. For example, there is overlap between "social media" and "culture". There are also disinct connections between "videos" and "live" and "experience" and "live", insinuating that you can experience a "live" experience through a video and through the experience itself. 
+ 
+ ## How Does Coachella use the Power of Live Music and Culture to their Benefit?
+ Coachella and brands that partake in the festival utilize certain strategies and tactics to get people to purchase tickets, goods, or services. Visit my [Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful) to see which strategies are most successful and why. 
+ 
+ ## How does Tik Tok and Coachella Intersect? 
+On May 22, 2023 I conducted a social media analysis on frequently viewed and nonfrequently viewed hastags regarding Coachella. After putting the data into Excel graphs, I came to several conclusions. 
+ 
+First, Tik Tok became very prevelent during the pandemic. Coachella 2019 took place before the shelter in place rules took effect. During 2020 and 2021, Coachella did not take place for saftey reasons. However, it had a striking comeback in 2022 and carried its popularity into 2023. As seen below, #Coachella2022 and #Coachella2023 show the comeback it had in both real life and the media. 
 
-
-[Price_FabianHolt_Voyant2.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11710688/Price_FabianHolt_Voyant2.pdf)
-
-![Price_FabianHolt_Voyant](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/eebb1bdb-2cf5-49ef-803b-81740cfa1b87)
-
-
-[Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful)
 
 

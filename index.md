@@ -39,5 +39,13 @@ On May 22, 2023 I conducted a social media analysis on frequently viewed and non
  
 First, Tik Tok became very prevelent during the pandemic. Coachella 2019 took place before the shelter in place rules took effect. During 2020 and 2021, Coachella did not take place for saftey reasons. However, it had a striking comeback in 2022 and carried its popularity into 2023. As seen below, #Coachella2022 and #Coachella2023 show the comeback it had in both real life and the media. 
 
+![Tik Tok Hashtags of Coachella for 2019, 2020, 2021, 2022, and 2023](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/5160dfc0-176a-4ba5-b0d1-bd91f6aeba65)
+
+Second, I collected the number of views for popular and unpopular hashtags surronding Coachella. The music-related hashtags were not nearly as popular as #Influencerolympics (12 Million) or #Coachellaoutfits (83.4 Million). The #Influencerolympics refers to the high amount of influencers that are paid to attend the event in honor of sponsoring a brand, making the festival a competitive networking event for popular influencers. #Coachellaoutfits represents the social stigma around what is and is not appropriate to ear to this festival. It shows how much people value the way they are perceived by others at the festival. 
+
+![Tik Tok Hashtags regarding Coachella](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/7669536f-1b03-47cf-a68f-76629bdfd519)
+
+Finally, I gathered the number of hashtag views several of the 2023 perfomers received. I particularly chose Labrinth, Zendaya, and Dominic Fike because they all acted or created music for the popular TV show Euphoria. I also included Bad Bunny, a Puerto Rican Rapper who headlined at Coachella this year to refer to as a famous artist who was not featured in the show. #Euphoria has 62 Billion views on Tik Tok and songs from its soundtrack have a history of being used in peoples personal videos. It gained a lot of popularity on Tik Tok when season 1 was released in June 2019 and season 2 in January 2022. The soundtrack became extremely popular as it gained traction in the media, especially amongst Coachella's target audience, therefore seeing these artists at Coachella 2023 was not much of a surprise. 
+![Tik Tok Hashtags from 2023 Performances](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/5ce6e3f1-8408-46d0-a9d6-e92e9a8d9b05)
 
 

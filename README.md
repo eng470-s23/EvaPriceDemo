@@ -23,14 +23,7 @@
 [Fair Use Evaluation Documentation - Everyone Loves Live Music_ A Theory of Performance Institutions.pdf](https://github.com/eng470-s23/EvaPriceDemo/files/11713110/Fair.Use.Evaluation.Documentation.-.Everyone.Loves.Live.Music_.A.Theory.of.Performance.Institutions.pdf)
 
 ## Methodological and Data-specific Information
-1. Description of methods for data collection and processing
-2. Project-wide definitions of codes or symbols used to note questionable and missing data 
-3. Project-wide variables list
-    - Name:
-    - Description:
-    - Value Labels:
-4. Units of measurement
-6. Geographic information
+I collected my information via Google Scholar and the UO Library. I began by using the key terms, "Coachella", "Experience", "Live", and "Influencer". These key terms brought me to many peer reviewed articles and books on my topic and introduced me to more useful key terms, such as "Brand Quality". I collected my data by using my own TikTok account to see the number of views a variety of hashtags recieved regarding Coachella in the last five years. I organized and displayed that data in an Excel sheet and graph. 
 
 ## Credits and Acknowledgments
 

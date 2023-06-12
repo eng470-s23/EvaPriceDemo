@@ -39,7 +39,6 @@ As you can see, there are distinct patterns between certain words throughout the
 
  
  ## How Does Coachella use the Power of Live Music and Culture to their Benefit?
- 
  Coachella and brands that partake in the festival utilize certain strategies and tactics to get people to purchase tickets, goods, or services. Visit my [Interactive Timeline](https://view.genial.ly/647249742f47710019f71ee1/interactive-content-digital-marketing-strategies-make-coachella-succesful) to see which strategies are most successful and why. 
  
  ## How does Tik Tok and Coachella Intersect? 
@@ -59,7 +58,6 @@ Finally, I gathered the number of hashtag views several of the 2023 perfomers re
 
 
 ## The Euphoria stars and Performers at Coachella 2023:
-
 ![Dominic Fike Performing at Coachella 2023 Sourced from Getty Images](https://github.com/eng470-s23/EvaPriceDemo/assets/129902853/b52d950c-29b1-4501-ba5e-f86e9eb7e26b)
  
  *Dominic Fike Performing at Coachella 2023* 
@@ -77,12 +75,16 @@ Finally, I gathered the number of hashtag views several of the 2023 perfomers re
 
  
  ## Conclusions
- 
 -Digital marketing strategies are formulated to appeal to as many people as possible within the target audience.
+
 -A digital marketing strategy in this field entails using technology to capture real life experiences and promote them in the media.
+
 -What brands post on social media is made to spark a desire  to witness a live experience by using videos and recordings that  depict a state of mind, a unique live experience, and personal relationships.
+
 -Brand and consumer relationships are important in achieving success. 
+
 -Coachella is a unique festival with a lot of fun, in-person experiences to offer, but it is also a networking event.
+
 -What goes viral on social media is used to leverage what direction to take when putting on an event in the entertainment industry. 
 
 
